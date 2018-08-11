@@ -1,0 +1,7 @@
+*pyc
+.idea/
+.idea/Test-name-cleaner.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+venv/
